@@ -1,6 +1,6 @@
-## Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
-<h4> Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I’m a full-stack developer, designer, and a content creator. I like building new stuff and working with other people.
+## Hi there, I’m Lloyd Crawford! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
+<h4> I’m a full-stack developer, designer, and a content creator. I like building new stuff and working with other people. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
+
 
 [![Instagram Badge](https://img.shields.io/badge/-@lloyd.crawford-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lloyd_d_crawford/)](https://www.instagram.com/lloyd_d_crawford/)
 [![Gmail Badge](https://img.shields.io/badge/-lloyd@crawfordlloyd.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lloyd@crawfordlloyd.com)](mailto:lloyd@crawfordlloyd.com)
