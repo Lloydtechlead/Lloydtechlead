@@ -1,4 +1,4 @@
-## Hi there! <img src="https://crawfordlloyd.com/assets/videos/lcvid.mp4" width="30px">
+## Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <h4> Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
 I’m a full-stack developer, designer, and a content creator. I like building new stuff and working with other people.
 
