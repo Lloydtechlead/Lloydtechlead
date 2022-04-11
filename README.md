@@ -4,7 +4,7 @@ I’m a full-stack developer, designer, and a content creator. I like building n
 
 [![Instagram Badge](https://img.shields.io/badge/-@lloyd.crawford-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lloyd_d_crawford/)](https://www.instagram.com/lloyd_d_crawford/)
 [![Gmail Badge](https://img.shields.io/badge/-lloyd@crawfordlloyd.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lloyd@crawfordlloyd.com)](mailto:lloyd@crawfordlloyd.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Lloyd Crawford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)](https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)
+[![Linkedin Badge](https://img.shields.io/badge/-LloydCrawford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)](https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)
 [![Twitter Badge](https://img.shields.io/badge/-@designsbylloyd-0088CC?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/designsbylloyd/ "Contact on Twitter")
 
 ### You can find my stuff here :leaves:
