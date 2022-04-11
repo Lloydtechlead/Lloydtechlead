@@ -1,11 +1,11 @@
 ## Hi there! <img src="https://crawfordlloyd.com/assets/videos/lcvid.mp4" width="30px">
 <h4> Fullstack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I’m a full-stack developer, designer, and a content creator. I work at Konnect E Global as a Creative Director/VP, and I’m the Founder at Lotta Jobs.
+I’m a full-stack developer, designer, and a content creator. I like building new stuff and working with other people.
 
-[![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lloyd_d_crawford/)](https://www.instagram.com/lloyd_d_crawford/)
-[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lloyd@crawfordlloyd.com)](mailto:lloyd@crawfordlloyd.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)](https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)
-[![Twitter Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/designsbylloyd/ "Contact on Twitter")
+[![Instagram Badge](https://img.shields.io/badge/-@lloyd.crawford-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/lloyd_d_crawford/)](https://www.instagram.com/lloyd_d_crawford/)
+[![Gmail Badge](https://img.shields.io/badge/-lloyd@crawfordlloyd.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lloyd@crawfordlloyd.com)](mailto:lloyd@crawfordlloyd.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lloyd Crawford-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)](https://www.linkedin.com/in/lloyd-crawford-9a21b2141/)
+[![Twitter Badge](https://img.shields.io/badge/-@designsbylloyd-0088CC?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/designsbylloyd/ "Contact on Twitter")
 
 ### You can find my stuff here :leaves:
 
